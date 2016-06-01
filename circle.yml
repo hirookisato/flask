@@ -8,7 +8,7 @@ machine:
   environment:
     FLASK_APP: flaskr.py
     REGISTRY: flaskr
-    BLUEMIX_REGISTRY: registry.ng.bluemix.net/kaneko/flaskr
+    BLUEMIX_REGISTRY: registry.ng.bluemix.net/hirookisato20160601dev/flaskr
     ENDPOINT: https://api.ng.bluemix.net
 
 dependencies:
